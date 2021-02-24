@@ -5228,6 +5228,7 @@ nav li.type-2 .dropmenu-desc {
   text-transform: uppercase;
   border: none;
   margin-right: 5px;
+  font-size: 14px
 }
 
 .simple-tab.type-2 .nav-tab-item:last-child {
@@ -7381,6 +7382,7 @@ ul.dot-blue-2 li:before {
 
 .accordion .acc-body p {
   margin-bottom: 17px;
+  font-size: 15px
 }
 
 .accordion.style-1 .acc-title {
@@ -16268,4 +16270,12 @@ header.color-8 nav > ul > li:hover > a {
 
 video {
   object-fit: fill;
+}
+
+.simple-tab {
+  padding-top: 40px
+}
+
+.text-bold {
+  font-weight: 700 !important;
 }
