@@ -13408,7 +13408,7 @@ header.color-2 nav.bg-green > ul > li > a:hover {
   display: none;
 }
 .acc-body li {
-  font-size: 12px;
+  font-size: 14px;
 }
 .acc-body p {
   font-size: 13px;
@@ -16278,4 +16278,17 @@ video {
 
 .text-bold {
   font-weight: 700 !important;
+}
+
+.itineraries .itinerary .radius-top img{
+  object-fit: cover;
+  max-height: 150px;
+}
+
+.itineraries .itinerary .hotel-item h4{
+  font-size: 13px !important
+}
+
+.itinerary-info p {
+  font-size: 15px !important
 }
